@@ -6,6 +6,7 @@ __pycache__/
 # Data
 /data
 /fake_images
+/fake_images_training
 /models
 
 # C extensions
