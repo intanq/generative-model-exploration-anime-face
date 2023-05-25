@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data
+/data
+/fake_images_dcgan
+/fake_images_dcgan_training
+/fake_images_vae_training
+/fake_images_vae
+/real_images
+/stats
+/models
+
 # C extensions
 *.so
 
