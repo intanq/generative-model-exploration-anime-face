@@ -5,8 +5,12 @@ __pycache__/
 
 # Data
 /data
-/fake_images
-/fake_images_training
+/fake_images_dcgan
+/fake_images_dcgan_training
+/fake_images_vae_training
+/fake_images_vae
+/real_images
+/stats
 /models
 
 # C extensions
